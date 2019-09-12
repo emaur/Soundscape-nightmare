@@ -1,12 +1,14 @@
 Needed:
 
-Door closing / me
+Unlocking door / recorded
 
-Shoes being removed / me 
+Door closing / recorded
 
-Keys jangling and being put down / me
+Shoes being removed / recorded
 
-Typing on a keyboard / me
+Keys jangling and being put down / recorded
+
+Typing on a keyboard / recorded
 
 Sounds of cooking: stove, cutting, boiling water / me
 
