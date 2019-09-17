@@ -1,23 +1,33 @@
 Needed:
 
-Unlocking door / recorded
+Unlocking door / recorded by me
 
-Door closing / recorded
+Door closing / recorded by me
 
-Shoes being removed / recorded
+Shoes being removed / recorded by me
 
-Keys jangling and being put down / recorded
+Keys jangling and being put down / recorded by me
 
-Typing on a keyboard / recorded
+Typing on a keyboard / recorded by me
 
-Sounds of cooking: stove, cutting, boiling water / me
+Sink running / recorded by me
 
-Getting ready for bed: sink running, toothbrush / me
+Toothbrush / https://freesound.org/people/DjDust/sounds/267530/
 
-Bed covers rustling / me
+Bed covers rustling / https://freesound.org/people/turchinoa/sounds/408382/
 
-Ambient TV noise / me
+Snoring / https://freesound.org/people/sankalp/sounds/180335/
 
-White noise of bedroom with fan / me
+Dreaming / https://freesound.org/people/ecfike/sounds/130876/
 
-Enchanting ambient music/sounds / pulled from online
+Switch into nightmare / https://freesound.org/people/computorial/sounds/68297/
+
+Voices / https://freesound.org/people/Speedenza/sounds/201311/
+
+Gasp / https://freesound.org/people/Audiactiva/sounds/46864/
+
+Creaking floor / https://freesound.org/people/DBlover/sounds/478667/
+
+Heavy breathing / https://freesound.org/people/MAJ061785/sounds/85536/
+
+Demon yell / https://freesound.org/people/nick121087/sounds/333832/
